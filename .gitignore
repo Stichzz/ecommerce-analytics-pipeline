@@ -1,0 +1,11 @@
+# Environment variables (DB credentials)
+.env
+*.env
+
+# Python virtual environment & cache
+venv/
+__pycache__/
+.ipynb_checkpoints/
+
+# Power BI temporary files
+~$*.pbix
